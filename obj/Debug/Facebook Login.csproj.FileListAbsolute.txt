@@ -1,0 +1,36 @@
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\App.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\App.g.cs
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\MainPage.g.i.cs
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\MainPage.g.cs
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\XamlTypeInfo.g.cs
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\App.xaml
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\App.xbf
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\XamlSaveStateFile.xml
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\MainPage.xaml
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\MainPage.xbf
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\Facebook Login.csprojResolveAssemblyReference.cache
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\App.xbf
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\MainPage.xbf
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\Facebook Login.exe
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\Facebook Login.pdb
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\resources.pri
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\AppxManifest.xml
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\Facebook Login.build.appxrecipe
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\Facebook.dll
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\Facebook.xml
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\Facebook Login.exe
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\Facebook Login.pdb
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\Facebook Login.csproj.GenerateResource.Cache
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\priconfig.xml
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\priconfig.xml.intermediate
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\layout.resfiles
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\layout.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\resources.resfiles
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\resources.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\pri.resfiles
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\pri.resfiles.intermediate
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\qualifiers.txt
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\qualifiers.txt.intermediate
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\obj\Debug\ProjectArchitectures.txt
+D:\STUDIES\Windows 8 Store Apps\Store Apps\Facebook Login\bin\Debug\Facebook Login.xr.xml
